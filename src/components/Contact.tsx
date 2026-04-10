@@ -56,7 +56,7 @@ const Contact = () => {
     {
       icon: Github,
       label: "GitHub",
-      url: "https://github.com/favouralivitsa",
+      url: "https://github.com/FajalAl",
       color: "hover:text-foreground"
     }
   ];

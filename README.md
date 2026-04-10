@@ -32,9 +32,6 @@ npm run build
 
 ## Personalisation Checklist
 
-- [ ] Replace `src/assets/profile-photo.jpg` with your actual photo
 - [ ] Replace `src/assets/hero-bg.jpg` with a preferred background
 - [ ] Replace `src/assets/project-1.jpg` / `project-2.jpg` with project screenshots
-- [ ] Add `public/resume.pdf` (your actual resume PDF) for the download button
-- [ ] Update email and LinkedIn/GitHub URLs in `Contact.tsx`
 - [ ] Update GitHub links in `Projects.tsx` with your real repo URLs
