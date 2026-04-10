@@ -34,4 +34,3 @@ npm run build
 
 - [ ] Replace `src/assets/hero-bg.jpg` with a preferred background
 - [ ] Replace `src/assets/project-1.jpg` / `project-2.jpg` with project screenshots
-- [ ] Update GitHub links in `Projects.tsx` with your real repo URLs
